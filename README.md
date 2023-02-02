@@ -1,4 +1,4 @@
-# benz
+# Mercedez-Benz-VD
 Assignment-Amit
 # Steps to Run Containerized Web Application 
 ## TERRAFORM Config
